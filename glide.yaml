@@ -1,0 +1,5 @@
+package: animeshow.tv scraper
+import:
+- package: github.com/PuerkitoBio/goquery
+  subpackages:
+  - github.com\PuerkitoBio\goquery
